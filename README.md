@@ -1,3 +1,3 @@
 # DETR
 
-## My perosnal implementation of DETR paper.
+### My personal implementation of DETR paper.
